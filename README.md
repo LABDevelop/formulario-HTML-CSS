@@ -1,8 +1,8 @@
 # Formulário - HTML - CSS
 
-## Aplicação de conceitos de criação de formulário em HTML e CSS.
+Aplicação de conceitos de criação de formulário em HTML e CSS.
 
-## Resultado final:
+Resultado final:
 
  ![Formulário HTML/CSS](/images/formul%C3%A1rio.png)
 
